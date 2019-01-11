@@ -1,0 +1,5 @@
+hub UCSC_test_hub
+shortLabel hub_short_label
+longLabel hub_long_label
+genomesFile genomes.txt
+email email_address
