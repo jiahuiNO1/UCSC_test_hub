@@ -1,5 +1,5 @@
 track test
-bigDataUrl mybb.bb
+bigDataUrl mybb.bigBed
 shortLabel short_label
 longLabel long_label
 type bigBed
