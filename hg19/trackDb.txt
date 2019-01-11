@@ -2,4 +2,4 @@ track test
 bigDataUrl GSM2537913_BSC127L_MatLum.bam.macs14_peaks.bed
 shortLabel short_label
 longLabel long_label
-type bed
+type bigBed
