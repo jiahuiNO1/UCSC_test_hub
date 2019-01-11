@@ -3,3 +3,4 @@ shortLabel hub_short_label
 longLabel hub_long_label
 genomesFile genomes.txt
 email email_address
+descriptionUrl https://raw.githubusercontent.com/Gragedaa/UCSC_test_hub/master/hub.txt
