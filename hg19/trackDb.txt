@@ -1,5 +1,5 @@
 track test
-bigDataUrl GSM2537910_BSC127L_Stromal.bam.macs14_peaks.bigBed
+bigDataUrl mybb.bb
 shortLabel short_label
 longLabel long_label
 type bigBed
